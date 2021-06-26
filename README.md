@@ -4,6 +4,8 @@
 others you will get rewards (BrainLink Token), it utilizes the brain power from all over the world to solve difficult problems or time consuming problems, everyone can
 public problems and can also help others when you are free.
 
+
+
 - 🌱 What you can do on BrainLink:
    - Ask and answer questions
    - Monitor tasks (like monitor email/news/broadcast) and notify
@@ -20,10 +22,15 @@ public problems and can also help others when you are free.
 - 📫 What to expect:
    BrainLink will be an open source platform, we welcome everyone to contribute to it, we also welcome hardware manufacture to integrate with our system, include but limited
    to:
+   
    Vehicle control system
+   
    Automatic dog walker
+   
    Remote machine
+   
    Remote Camera
+   
 
 - See an example here https://github.com/BrainLink-Offical/brainlinkinfo/blob/main/A%20new%20way%20of%20self%20drive.pdf
 
