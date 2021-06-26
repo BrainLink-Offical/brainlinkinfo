@@ -24,6 +24,14 @@ public problems and can also help others when you are free.
    Automatic dog walker
    Remote machine
    Remote Camera
+
+- See an example here https://github.com/BrainLink-Offical/brainlinkinfo/blob/main/A%20new%20way%20of%20self%20drive.pdf
+
+- We need you
+
+   We need your contribution on web design, backend server development, app development, if you are interested in to make the contribution, please contact brainlinkinfo-1@yahoo.com
    
-- info query/news, email to : brainlinkinfo-1@yahoo.com
+   Lets make a big thing together!!
+
+- For all info query/news, email to : brainlinkinfo-1@yahoo.com
 
