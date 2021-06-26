@@ -4,7 +4,7 @@
 others you will get rewards (BrainLink Token), it utilizes the brain power from all over the world to solve difficult problems or time consuming problems, everyone can
 public problems and can also help others when you are free.
 
-
+See overall architecture here https://github.com/BrainLink-Offical/brainlinkinfo/blob/main/allarch.pdf
 
 - 🌱 What you can do on BrainLink:
    - Ask and answer questions
